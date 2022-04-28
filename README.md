@@ -6,13 +6,16 @@ lab environment:ubuntu 18.04 + ros_melodic
 
 GETTING STARTED:
   
- 下载
+ 下载： 
+ 
     git clone https://github.com/ALEX-cute-SUN/ROS_DEMO_NAV.git
     
- 解压
+ 解压：
+ 
   7z x demo05_nav.7z -r -o./
   
  进入目录：
+ 
   cd demo05_nav
   
  开启终端1：
