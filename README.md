@@ -12,11 +12,11 @@ GETTING STARTED:
     
  解压：
  
-  7z x demo05_nav.7z -r -o./
+    7z x demo05_nav.7z -r -o./
   
  进入目录：
  
-  cd demo05_nav
+    cd demo05_nav
   
  开启终端1：
  
